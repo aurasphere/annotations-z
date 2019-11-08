@@ -11,8 +11,7 @@ import java.lang.annotation.Target;
  * @author Donato Rimenti
  * @see Gucci
  */
-@Retention(RetentionPolicy.SOURCE)
 @Target(ElementType.METHOD)
+@Retention(RetentionPolicy.SOURCE)
 public @interface YOLO {
-
 }

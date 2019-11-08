@@ -9,10 +9,8 @@ import java.lang.annotation.Target;
  * Indicates a class that can be used as a candidate for dependency injection.
  * 
  * @author Donato Rimenti
- *
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.SOURCE)
 public @interface Squad {
-
 }

@@ -10,10 +10,8 @@ import java.lang.annotation.Target;
  * nanoservices or anemic domain model anti-pattern).
  * 
  * @author Donato Rimenti
- *
  */
-@Retention(RetentionPolicy.SOURCE)
 @Target({ ElementType.TYPE, ElementType.METHOD })
+@Retention(RetentionPolicy.SOURCE)
 public @interface Smol {
-
 }

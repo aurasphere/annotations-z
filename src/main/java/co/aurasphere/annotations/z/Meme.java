@@ -11,11 +11,9 @@ import java.lang.annotation.Target;
  * making the same errors.
  * 
  * @author Donato Rimenti
- *
  */
 @Lit
 @Target({ ElementType.METHOD, ElementType.TYPE })
 @Retention(RetentionPolicy.SOURCE)
 public @interface Meme {
-
 }

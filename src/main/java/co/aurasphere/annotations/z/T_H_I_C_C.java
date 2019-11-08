@@ -12,8 +12,7 @@ import java.lang.annotation.Target;
  * @author Donato Rimenti
  * @see S_N_A_C_C
  */
-@Retention(RetentionPolicy.SOURCE)
 @Target({ ElementType.TYPE, ElementType.METHOD })
+@Retention(RetentionPolicy.SOURCE)
 public @interface T_H_I_C_C {
-
 }

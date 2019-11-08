@@ -12,5 +12,4 @@ import java.lang.annotation.Retention;
 @Lit
 @Retention(RetentionPolicy.SOURCE)
 public @interface Lit {
-
 }
