@@ -77,7 +77,7 @@ Not yet, but we are working on it.
  
 - Will @Yeet replace the obsolete @Deprecated?
  
-We can't say it for sure but there's already 
+We can't say it for sure but we know [there's already a JSR for this](https://jcp.org/en/jsr/overview). 
  
 - DoEs ThIs WoRk On AnDrOiD
  
