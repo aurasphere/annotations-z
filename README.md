@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 # Annotations Z
 
 > "We had a very serious synchronization issue in one of our payment services. We could have invested our money and time to fix it, but we decided to annotate it with _@YOLO_ instead. Sometimes you just need to go for it and hope for the best" - Mark West, CEO of Bear FinTech Inc.
